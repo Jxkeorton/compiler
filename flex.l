@@ -1,6 +1,9 @@
 
 %{
 #include "cipher.tab.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 %}
 
 %%
