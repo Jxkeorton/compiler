@@ -1,0 +1,11 @@
+const alphabet = ['A','B','C'];
+
+function cipher(text, key) {
+    let result = [];
+    for(let i = 0; i < 10; i++) {
+        result = i + key;
+    }
+    return result;
+}
+
+const text = cipher('hello', 4);

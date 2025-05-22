@@ -1,0 +1,7 @@
+grammar.tab.c
+grammar.tab.h
+output.asm
+lex.yy.c
+parser.exe
+token.txt
+debug.y
